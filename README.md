@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Alexis GitHub stats](https://github-readme-stats.vercel.app/api?username=alexismendozas&show_icons=true&theme=vue-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexismendozas&layout=pie)](https://github.com/alexismendozas/github-readme-stats)
