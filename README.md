@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1>Hola, soy Alexis 👋</h1>
+##Sobre mí
+Soy un programador apasionado con experiencia en desarrollo web. Me encanta aprender nuevas tecnologías y mejorar mis habilidades en programación.
+
+##Objetivo Profesional
+Mi objetivo es desarrollar soluciones innovadoras y eficientes a través de la programación, con el fin de contribuir al avance tecnológico y mejorar la experiencia del usuario.
+
+##Proyectos Destacados
+RYS: Esta es una plataforma web hecha para procesar el proceso interno de reclutamiento y Selección. 
+CPI: Es una plataforma web para administrar la paquetería de la empresa, como crear envios, dar seguimiento. 
 
 <!--
 **AlexisMendozaS/AlexisMendozaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
