@@ -1,11 +1,12 @@
 <h1>Hola, soy Alexis 👋</h1>
-##Sobre mí
+
+## Sobre mí
 Soy un programador apasionado con experiencia en desarrollo web. Me encanta aprender nuevas tecnologías y mejorar mis habilidades en programación.
 
-##Objetivo Profesional
+## Objetivo Profesional
 Mi objetivo es desarrollar soluciones innovadoras y eficientes a través de la programación, con el fin de contribuir al avance tecnológico y mejorar la experiencia del usuario.
 
-##Proyectos Destacados
+## Proyectos Destacados
 RYS: Esta es una plataforma web hecha para procesar el proceso interno de reclutamiento y Selección. 
 CPI: Es una plataforma web para administrar la paquetería de la empresa, como crear envios, dar seguimiento. 
 
