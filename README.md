@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alexis GitHub stats](https://github-readme-stats.vercel.app/api?username=alexismendozas&show_icons=true&theme=vue-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexismendozas&layout=pie)](https://github.com/alexismendozas/github-readme-stats)
+![Alexis GitHub stats](https://github-readme-stats-cyan-omega-91.vercel.app/api?username=alexismendozas&show_icons=true&theme=vue-dark)
+[![Top Langs](https://github-readme-stats-cyan-omega-91.vercel.app/api/top-langs/?username=alexismendozas&layout=pie)](https://github.com/alexismendozas/github-readme-stats)
