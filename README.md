@@ -1,9 +1,22 @@
 <!-- Encabezado -->
-<h2 align="center">👋 ¡Hola! Soy <span style="color:#42b983;">Alexis Mendoza</span></h2>
+<h1 align="center">👋 ¡Hola! Soy <span style="color:#42b983;">Alexis Mendoza</span></h1>
 
 <p align="center"> 
     <a href="https://git.io/typing-svg"> 
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42B983&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa+y+la+innovaci%C3%B3n;Enfocado+en+crear+soluciones+eficientes+e+intuitivas;Siempre+aprendiendo+y+mejorando" alt="Typing SVG" />         </a> 
+</p>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexismendozas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:a.mendozas0209@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://alexismendozas.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -22,6 +35,7 @@
         </ul>
     </td>
     <td width="45%" align="center" valign="top">
+        <h2>🎧 Lo que escucho <h2>
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=31abtcsxu5bbbpwkgzpqlifc7ggu&unique=1" alt="Spotify Recently Played" width="100%"/>
     </td>
   </tr>
@@ -60,65 +74,99 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexismendozas&theme=vue" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexismendozas&show_icons=true&theme=vue-dark&count_private=true&locale=es" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexismendozas&layout=compact&theme=vue-dark" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alexismendozas&theme=vue-dark&locale=es" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexismendozas&theme=react-dark&area=true" />
-</p>
-
+<!-- 🏆 Trophy Section -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=AlexisMendozaS&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <h3>🏆 GitHub Achievements</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexisMendozaS&theme=dracula&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </div>
 
-<img src="https://raw.githubusercontent.com/alexismendozas/alexismendozaS/output/snake.svg" alt="Snake animation" />
+---
 
-###
+<!-- 🧠 Profile Summary -->
+<div align="center">
+  <h3>📊 GitHub Overview</h3>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexisMendozaS&theme=vue" width="100%" />
+</div>
 
 ---
 
-## 🌐 Conecta conmigo
-<p align="center">
-  <a href="https://www.linkedin.com/in/alexismendozas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:armandomendoza988@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://alexismendozas.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-242424?style=flat-square&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+<!-- ⚙️ Stats Section -->
+<div align="center">
+  <table border="0" style="border:none;">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=AlexisMendozaS&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisMendozaS&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 🧩 Proyectos Destacados
-#### **🧾 RYS — Gestión de Reclutamiento y Selección**
-Sistema interno para administrar solicitudes de personal, seguimiento de candidatos y generación de reportes.  
-> **Stack:** PHP · MySQL · JavaScript · Bootstrap · Chart.js · DataTables  
+<!-- 🔥 Streak Section -->
+<div align="center">
+  <h3>🔥 GitHub Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexisMendozaS&theme=vue-dark&hide_border=true" alt="GitHub Streak Stats" />
+</div>
 
-#### **📦 CPI — Control de Paquetería Interna**
-Plataforma empresarial para la trazabilidad de envíos y paquetes, con códigos QR, control logístico y seguimiento en tiempo real.  
-> **Stack:** PHP · MySQL · JavaScript · Bootstrap · Leaflet.js · PHPMailer  
+---
 
-#### **🏢 Analítica Boutique — Sitio Corporativo**
-Sitio web moderno y responsivo desarrollado con **React, Vite y Tailwind**, con animaciones fluidas (Framer Motion / GSAP) y optimización SEO.  
-> **Stack:** React · TypeScript · Vite · Tailwind CSS · Framer Motion  
+<!-- 📈 Contribution Graph -->
+<div align="center">
+  <h3>📈 Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexisMendozaS&theme=react-dark&area=true&hide_border=true" width="100%" />
+</div>
 
-#### **📊 Visores — Plataforma de Visualización de Datos**
-Herramienta avanzada de análisis financiero con dashboards interactivos y reportes en tiempo real.  
-> **Stack:** React · Vite · Material UI · TypeScript · MongoDB  
+---
 
-#### **🎓 IA para Nosotras**
-Plataforma educativa sobre inteligencia artificial con enfoque en mujeres, con recursos interactivos y diseño inclusivo.  
-> **Stack:** React · Tailwind CSS · MongoDB  
+<!-- 🐍 Snake Animation -->
+<div align="center">
+  <h3>🐍 Contribution Snake</h3>
+  <img src="https://raw.githubusercontent.com/AlexisMendozaS/AlexisMendozaS/output/snake.svg" alt="Snake animation" />
+</div>
+
+
+
+---
+<h3 align="center">🧩 Proyectos Destacados</h3>
+
+<div align="center">
+  <table border="0" style="border:none; width:100%;">
+    <tr>
+      <td width="33%" align="center" valign="top">
+        <h4>🧾 <b>RYS</b></h4>
+        <p><i>Gestión de Reclutamiento y Selección</i></p>
+        <p>PHP · MySQL · JavaScript</p>
+      </td>
+      <td width="33%" align="center" valign="top">
+        <h4>📦 <b>CPI</b></h4>
+        <p><i>Control de Paquetería Interna</i></p>
+        <p>PHP · MySQL · JS · Bootstrap</p>
+      </td>
+      <td width="33%" align="center" valign="top">
+        <h4>🏢 <b>Analítica Boutique</b></h4>
+        <p><i>Sitio Corporativo</i></p>
+        <p>React · Vite · Tailwind</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <h4>📊 <b>Visores</b></h4>
+        <p><i>Visualización de Datos</i></p>
+        <p>React · TypeScript · MongoDB</p>
+      </td>
+      <td align="center" valign="top">
+        <h4>🎓 <b>IA para Nosotras</b></h4>
+        <p><i>Educación e IA</i></p>
+        <p>React · Tailwind · MongoDB</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
