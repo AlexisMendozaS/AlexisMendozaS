@@ -8,13 +8,24 @@
 
 ---
 
-## 👨‍💻 Sobre mí
-- 🚀 Soy **Desarrollador Full Stack Junior** con formación en **Ciencias Computacionales**.  
-- 🧩 Me especializo en el **diseño, desarrollo e implementación** de aplicaciones web completas, combinando **frontend moderno y backend robusto**.  
-- 🤖 Interesado en **inteligencia artificial aplicada**, **automatización**, **data analysis** y **visualización de información**.  
-- 🧠 Aplico buenas prácticas de desarrollo, control de versiones con **Git**, integración continua y documentación técnica.  
-- 💬 Disfruto trabajar en equipo, aprender nuevas tecnologías y construir productos que generen impacto real.  
-- 🎯 Actualmente colaboro en **AM Promanagement**, desarrollando plataformas SaaS internas y educativas basadas en la nube.  
+<table border="0">
+  <tr>
+    <td width="55%" valign="top">
+        <h2>👨‍💻 Sobre mí</h2>
+        <ul>
+          <li>🚀 Soy <b>Desarrollador Full Stack Junior</b> con formación en <b>Ciencias Computacionales</b>.</li>
+          <li>🧩 Me especializo en el <b>diseño, desarrollo e implementación</b> de aplicaciones web completas, combinando <b>frontend moderno y backend robusto</b>.</li>
+          <li>🤖 Interesado en <b>inteligencia artificial aplicada</b>, <b>automatización</b>, <b>data analysis</b> y <b>visualización de información</b>.</li>
+          <li>🧠 Aplico buenas prácticas de desarrollo, control de versiones con <b>Git</b>, integración continua y documentación técnica.</li>
+          <li>💬 Disfruto trabajar en equipo, aprender nuevas tecnologías y construir productos que generen impacto real.</li>
+          <li>🎯 Actualmente colaboro en <b>AM Promanagement</b>, desarrollando plataformas SaaS internas y educativas basadas en la nube.</li>
+        </ul>
+    </td>
+    <td width="45%" align="center" valign="top">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31abtcsxu5bbbpwkgzpqlifc7ggu&unique=1" alt="Spotify Recently Played" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -62,6 +73,14 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexismendozas&theme=react-dark&area=true" />
 </p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=AlexisMendozaS&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+<img src="https://raw.githubusercontent.com/alexismendozas/alexismendozaS/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 
