@@ -18,29 +18,6 @@
 
 ---
 
-### 🧩 Proyectos Destacados
-#### **🧾 RYS — Gestión de Reclutamiento y Selección**
-Sistema interno para administrar solicitudes de personal, seguimiento de candidatos y generación de reportes.  
-> **Stack:** PHP · MySQL · JavaScript · Bootstrap · Chart.js · DataTables  
-
-#### **📦 CPI — Control de Paquetería Interna**
-Plataforma empresarial para la trazabilidad de envíos y paquetes, con códigos QR, control logístico y seguimiento en tiempo real.  
-> **Stack:** PHP · MySQL · JavaScript · Bootstrap · Leaflet.js · PHPMailer  
-
-#### **🏢 Analítica Boutique — Sitio Corporativo**
-Sitio web moderno y responsivo desarrollado con **React, Vite y Tailwind**, con animaciones fluidas (Framer Motion / GSAP) y optimización SEO.  
-> **Stack:** React · TypeScript · Vite · Tailwind CSS · Framer Motion  
-
-#### **📊 Visores — Plataforma de Visualización de Datos**
-Herramienta avanzada de análisis financiero con dashboards interactivos y reportes en tiempo real.  
-> **Stack:** React · Vite · Material UI · TypeScript · MongoDB  
-
-#### **🎓 IA para Nosotras**
-Plataforma educativa sobre inteligencia artificial con enfoque en mujeres, con recursos interactivos y diseño inclusivo.  
-> **Stack:** React · Tailwind CSS · MongoDB  
-
----
-
 ## ⚙️ Tecnologías y Herramientas
 
 ### 💻 Lenguajes
@@ -50,7 +27,7 @@ Plataforma educativa sobre inteligencia artificial con enfoque en mujeres, con r
 
 ### ⚙️ Backend & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mysql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mysql,mongodb" />
 </p>
 
 ### 🧠 Frontend
@@ -60,12 +37,12 @@ Plataforma educativa sobre inteligencia artificial con enfoque en mujeres, con r
 
 ### ☁️ Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,nginx,vercel,netlify,render,linux,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,linux,ubuntu" />
 </p>
 
 ### 🔒 Integraciones y Herramientas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,composer,postman,figma,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
 </p>
 
 ---
@@ -100,6 +77,29 @@ Plataforma educativa sobre inteligencia artificial con enfoque en mujeres, con r
     <img src="https://img.shields.io/badge/Portafolio-242424?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
 </p>
+
+---
+
+### 🧩 Proyectos Destacados
+#### **🧾 RYS — Gestión de Reclutamiento y Selección**
+Sistema interno para administrar solicitudes de personal, seguimiento de candidatos y generación de reportes.  
+> **Stack:** PHP · MySQL · JavaScript · Bootstrap · Chart.js · DataTables  
+
+#### **📦 CPI — Control de Paquetería Interna**
+Plataforma empresarial para la trazabilidad de envíos y paquetes, con códigos QR, control logístico y seguimiento en tiempo real.  
+> **Stack:** PHP · MySQL · JavaScript · Bootstrap · Leaflet.js · PHPMailer  
+
+#### **🏢 Analítica Boutique — Sitio Corporativo**
+Sitio web moderno y responsivo desarrollado con **React, Vite y Tailwind**, con animaciones fluidas (Framer Motion / GSAP) y optimización SEO.  
+> **Stack:** React · TypeScript · Vite · Tailwind CSS · Framer Motion  
+
+#### **📊 Visores — Plataforma de Visualización de Datos**
+Herramienta avanzada de análisis financiero con dashboards interactivos y reportes en tiempo real.  
+> **Stack:** React · Vite · Material UI · TypeScript · MongoDB  
+
+#### **🎓 IA para Nosotras**
+Plataforma educativa sobre inteligencia artificial con enfoque en mujeres, con recursos interactivos y diseño inclusivo.  
+> **Stack:** React · Tailwind CSS · MongoDB  
 
 ---
 
