@@ -2,9 +2,7 @@
 <h2 align="center">👋 ¡Hola! Soy <span style="color:#42b983;">Alexis Mendoza</span></h2>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42B983&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Apasionado+por+la+tecnolog%C3%ADa+y+la+innovaci%C3%B3n;Dise%C3%B1o+y+desarrollo+de+soluciones+web+escalables;Siempre+aprendiendo+y+mejorando+💡" alt="Typing SVG" />
-  </a>
 </p>
 
 ---
